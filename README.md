@@ -8,5 +8,5 @@ Trabalhamos diariamente com Ruby, Ruby on Rails, Spree Commerce, PHP, CakePHP, L
 
 ## Vagas
 
-- Desenvolvedor web Ruby
-- Estagiário em desenvolvimento web
+- Desenvolvedor web Ruby (2 vagas)
+- Estagiário em desenvolvimento web (1 vaga)
