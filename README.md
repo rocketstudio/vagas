@@ -4,7 +4,7 @@
 
 A [Rocket Studio](http://rocketstud.io) é uma produtora de software localizada em Curitiba/PR. Estamos buscando talentos para o nosso time com espírito empreendedor, pro-ativididade, que não tenha medo de arriscar e que esteja sempre buscando aprender algo novo.
 
-Trabalhamos diariamente com Ruby, Ruby on Rails, Spree Commerce, PHP, CakePHP, Laravel, PostgreSQL, MySQL, MongoDB, Redis, CoffeScript, SASS, entre outras.
+Trabalhamos diariamente com Ruby, Ruby on Rails, Spree Commerce, PHP, CakePHP, Laravel, PostgreSQL, MySQL, MongoDB, Redis, CoffeScript, SASS, entre outras tecnologias.
 
 ## Vagas
 
