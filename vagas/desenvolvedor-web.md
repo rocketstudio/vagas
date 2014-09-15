@@ -16,7 +16,7 @@ Estamos buscando 2 profissionais para fazer parte da equipe, buscamos profission
 
 ### Diferenciais
 
-- Saber programar com pelo menos PHP ou Node.JS;
+- Conhecer ou programar com outras linguagens (PHP, Node.JS, Java);
 - Framework MVC Javascript será um bônus (Angular, Ember, Backbone);
 - Ter utilizado alguma vez na vida SASS ou LESS;
 
