@@ -12,6 +12,7 @@ Estamos buscando 2 profissionais para fazer parte da equipe, buscamos profission
 - Se sentir confortavel para programar em Ruby;
 - Conhecer bancos relacionais e não relacionais;
 - Utilizar o GIT como controle de versão;
+- Experiência com TDD e BDD em qualquer linguagem;
 - Não ter medo de mexer com HTML e CSS.
 
 ### Diferenciais
